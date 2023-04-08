@@ -1,2 +1,2 @@
-# GetThingsDone
-A web app to get things done
+# get-things-done
+An app to get things done
